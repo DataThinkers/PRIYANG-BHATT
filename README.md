@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyang Bhatt</h1>
-<h3 align="center">Educator By Day, Data Scientist By Night</h3>
+<h3 align="center">Educator By Day. Data Scientist By Night</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.youtube.com/c/priyangbhatt](https://www.youtube.com/c/priyangbhatt)
 
-- 📝 I regularly write articles on End-to-End Machine Learning Projects & Data Anlystics Using Python
+- 📝 I regularly write articles on End-to-End Machine Learning Projects & Data Analytics Using Python
 
 - 💬 Ask me about **Machine Learning using Python,Android**
 
