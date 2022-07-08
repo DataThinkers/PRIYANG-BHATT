@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.youtube.com/c/priyangbhatt](https://www.youtube.com/c/priyangbhatt)
 
-- 📝 I regularly write articles on [End-to-End Machine Learning Projects & Data Anlystics Using Python](End-to-End Machine Learning Projects & Data Anlystics Using Python)
+- 📝 I regularly write articles on End-to-End Machine Learning Projects & Data Anlystics Using Python
 
 - 💬 Ask me about **Machine Learning using Python,Android**
 
