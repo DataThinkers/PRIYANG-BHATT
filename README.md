@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.youtube.com/c/priyangbhatt](https://www.youtube.com/c/priyangbhatt)
+- 👨‍💻 All of my projects are available at [https://www.youtube.com/@DataThinkers](https://www.youtube.com/c/priyangbhatt)
 
 - 📝 I regularly write articles on End-to-End Machine Learning Projects & Data Analytics Using Python
 
 - 💬 Ask me about **Machine Learning using Python,Android**
 
-- 📫 How to reach me **bhattpriyang@gmail.com**
+- 📫 How to reach me **datathinkers365@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
