@@ -31,6 +31,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyang-bhatt&" alt="priyang-bhatt" /></p>
 
-https://github-readme-stats.vercel.app/api?username=priyangbhatt
 
 
